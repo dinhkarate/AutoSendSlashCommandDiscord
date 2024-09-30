@@ -52,6 +52,6 @@ console.log(`%cYou now have your token in the clipboard!`, 'font-size: 16px');
 
 
 ## Credits
-- [Discord.js](https://github.com/aiko-chan-ai/discord.js-selfbot-v13)
+- [Discord.js-selfbot-v13](https://github.com/aiko-chan-ai/discord.js-selfbot-v13)
 
 # From Github with love 💕
