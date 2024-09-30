@@ -7,7 +7,7 @@
 ### Click Generate Files, then start run_with_delay.bat
 
 
-### Slash Command
+## Slash Command
 ![image](https://user-images.githubusercontent.com/71698422/173344527-86520c60-64cd-459c-ba3b-d35f14279f93.png)
 ## Sub Command / Sub Group
 ### Demo
