@@ -1,4 +1,6 @@
-package.json
-package-lock.json
-node_modules/
 generate.py
+info.json
+run_with_delay.bat
+node_modules/
+package-lock.json
+package.json
