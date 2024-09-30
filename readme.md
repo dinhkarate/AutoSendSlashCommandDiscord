@@ -1,10 +1,11 @@
 # How to use?
-
+### Open installation.bat
 ### Open generate.exe
 
 ![image](https://github.com/user-attachments/assets/c9bfc267-3148-4c52-9785-c1d8065a1625)
 
-### Click Generate Files, then start run_with_delay.bat
+### After Filling, click Generate Files
+### Start run_with_delay.bat
 
 
 ## Slash Command
