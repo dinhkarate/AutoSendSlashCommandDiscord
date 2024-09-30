@@ -1,11 +1,11 @@
-## How to use?
-``
-Open generate.exe
-``
+# How to use?
+
+### Open generate.exe
+
 ![image](https://github.com/user-attachments/assets/c9bfc267-3148-4c52-9785-c1d8065a1625)
-``
-Click Generate Files, then start run_with_delay.bat
-``
+
+### Click Generate Files, then start run_with_delay.bat
+
 
 ### Slash Command
 ![image](https://user-images.githubusercontent.com/71698422/173344527-86520c60-64cd-459c-ba3b-d35f14279f93.png)
