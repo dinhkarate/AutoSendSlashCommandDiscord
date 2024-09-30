@@ -1,13 +1,16 @@
-## Basic
+## How to use?
+``
+Open generate.exe
+``
+![image](https://github.com/user-attachments/assets/c9bfc267-3148-4c52-9785-c1d8065a1625)
+``
+Click Generate Files, then start run_with_delay.bat
+``
 
-### Demo
-
+### Slash Command
 ![image](https://user-images.githubusercontent.com/71698422/173344527-86520c60-64cd-459c-ba3b-d35f14279f93.png)
-
 ## Sub Command / Sub Group
-
 ### Demo
-
 ![image](https://user-images.githubusercontent.com/71698422/173346438-678009a1-870c-49a2-97fe-8ceed4f1ab64.png)
 
 ## Installation
